@@ -1,4 +1,4 @@
-# Machine-learning-approach-for-a-personalized-subscription-model-for-customer-retention
+# Machine-learning-approach-for-a-personalized-subscription-model-for-customer-retention( Divvy Cyclist Chicago)
 
 Aim of the Project
 
